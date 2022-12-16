@@ -1,3 +1,5 @@
+//Código para executar o Genius utilizando a matriz de LEDs e o Arduino Lilypad
+
 //B1T A B1T
 //www.youtube.com.br/bitabit
 

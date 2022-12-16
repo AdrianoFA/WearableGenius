@@ -1,6 +1,6 @@
 # WearableGenius
 
-## Descrição
+## Sobre o projeto
 
 ### Lista de Materiais
 
@@ -42,13 +42,13 @@ E estas foram as conexões realizadas:
 
 ²Os resistores também podem ser iguais (por exemplo 220Ω), obtendo um resultado semelhante.
 
-## Como montar o dispositivo
+## Executando o Genius na IDE do Arduino
 
-Fazer as conexões listadas, configurar, transferir e executar `jogoDaMemoria.ino` na IDE do Arduino.
+## Criando a roupa
 
-## Executando o programa na IDE do Arduino
+![prototipo](/mídia/prototipo.jpg)
 
-## Arquitetura e organização
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 ## Como usar o programa
 

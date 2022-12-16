@@ -114,7 +114,7 @@ Após montar todo o circuito na protoboard, é preciso baixar a [IDE do Arduino]
 Em seguida, baixar e executar o arquivo [jogo_da_memoria.ino](https://github.com/AdrianoFA/WearableGenius/blob/main/src/jogo_da_memoria.ino), que é o código do Genius. o executável irá abrir uma janela da IDE do Arduino. 
 Agora, é preciso escolher o tipo do Arduino (Arduino UNO) e a porta USB onde ele está conectado. Se ele estiver conectado, provavelmente a única opção de porta que vai aparecer é a correta. Essas duas seleções podem ser feitas facilmente pela aba "Tools" da IDE do Arduino:
 
-<img src="https://github.com/AdrianoFA/WearableGenius/blob/main/midia/tools.png" width="400" height="300">
+<img src="https://github.com/AdrianoFA/WearableGenius/blob/main/midia/tools2.png" width="400" height="300">
 
 E por último, basta carregar o programa no Arduino UNO (pela opção de Upload na IDE), e ele será executado automaticamente.
 

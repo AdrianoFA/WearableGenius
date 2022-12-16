@@ -61,7 +61,7 @@ https://user-images.githubusercontent.com/66809367/208124224-004a1787-a410-491f-
 
 <img src="https://github.com/AdrianoFA/WearableGenius/blob/main/midia/GeniusTinkercad.png" width="600" height="500">
 
-*Imagem do projeto no Tinkercad, mostrando as conexões (OBS: Os jumpers brancos estão marrons para facilitar a visualização*
+*Imagem do projeto no Tinkercad, mostrando as conexões (OBS: Os jumpers brancos estão marrons para facilitar a visualização)*
 
 | Pino do Arduino UNO | Cor do jumper | Buraco da protoboard | Descrição |
 | --- | --- | --- | --- |
@@ -134,7 +134,7 @@ Também foi feita uma versão do Genius na plataforma Tinkercad, que possibilita
 
 ~~falar um pouco sobre a roupa aqui~~
 
-<img src="https://github.com/AdrianoFA/WearableGenius/blob/main/midia/criacaoRoupa.png" width="500" height="800">
+<img src="https://github.com/AdrianoFA/WearableGenius/blob/main/midia/criacaoRoupa.jpg" width="500" height="700">
 
 https://user-images.githubusercontent.com/66809367/208124351-14f1b6d8-89d5-47ca-9a26-529151e4d466.mp4
 

@@ -8,13 +8,13 @@ Este projeto foi desenvolvido para a disciplina ACH2808 – INTRODUÇÃO AOS TÊ
 
 ### Responsáveis pelo projeto:
 
-Adriano Favareto Abromovick 11796062
+Adriano Favareto Abromovick - NUSP 11796062
 
-Julia Lima Teodorak Vieira 11369600
+Julia Lima Teodorak Vieira - NUSP 11369600
 
-Júlio Silva Ladeira 10872350
+Júlio Silva Ladeira - NUSP 10872350
 
-Sabrina Ribeiro de Souza 11207290
+Sabrina Ribeiro de Souza - NUSP 11207290
 
 ~~escrever mais coisas aqui, como a motivação e sobre nós~~
 
@@ -154,7 +154,12 @@ https://user-images.githubusercontent.com/66809367/208124056-c7bbd84f-9af6-42f6-
 
 ## Como usar a roupa
 
-~~escrever instruções de uso da roupa aqui~~
+Depois de carregar o código do Genius no Arduino Lilypad, conectar o Lilypad no PowerBank. 
+O jogo deve começar automaticamente, exibindo a primeira forma escolhida na matriz de led, com a cor correspondente à forma. 
+O jogador deve então selecionar a forma que ele acredita que foi exibida pela tela e apertar o botão de pressão costurado na roupa correspondente à forma. 
+Caso correto, o jogo incluirá mais uma forma na sequência, e o jogador deve sempre repetir a sequência exibida na roupa.
+O jogo continua até uma sequência de 20 formas em sequência
+Caso erre, a matriz exibira uma sequência de cores diferentes rapidamente, junto com um som diferente, e o jogo irá recomeçar.
 
 https://user-images.githubusercontent.com/66809367/208134089-423ecac3-2c4b-4703-b8af-f1a3b267a692.mp4
 

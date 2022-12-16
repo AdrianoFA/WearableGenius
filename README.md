@@ -19,7 +19,7 @@ Este projeto foi desenvolvido para a disciplina ACH2808 – INTRODUÇÃO AOS TÊ
 
 ## Conexões
 
-<img src="https://github.com/AdrianoFA/WearableGenius/blob/main/midia/lilypad.png" width="150" height="150">
+<img src="https://github.com/AdrianoFA/WearableGenius/blob/main/midia/lilypad2.jpg" width="150" height="150">
 
 | Buraco do Lilypad | Conectado a |
 | --- | --- |

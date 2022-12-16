@@ -1,10 +1,20 @@
 # WearableGenius
 
-https://user-images.githubusercontent.com/66809367/208124056-c7bbd84f-9af6-42f6-b17a-6722bb8be439.mp4
+https://user-images.githubusercontent.com/66809367/208134003-32535726-3c44-4858-9110-4e01f6ef53c2.mp4
 
 ## Sobre o projeto
 
 Este projeto foi desenvolvido para a disciplina ACH2808 – INTRODUÇÃO AOS TÊXTEIS ELETRÔNICOS E DISPOSITIVOS VESTÍVEIS (E-TEXTILES E WEARABLES)
+
+### Responsáveis pelo projeto:
+
+Adriano Favareto Abromovick 11796062
+
+Julia Lima Teodorak Vieira 11369600
+
+Júlio Silva Ladeira 10872350
+
+Sabrina Ribeiro de Souza 11207290
 
 ~~escrever mais coisas aqui, como a motivação e sobre nós~~
 
@@ -37,8 +47,6 @@ Este projeto foi desenvolvido para a disciplina ACH2808 – INTRODUÇÃO AOS TÊ
 | A5 | Positivo do LED azul |
 
 ## OBS: Teste do Genius
-
-https://user-images.githubusercontent.com/66809367/208124224-004a1787-a410-491f-b5c9-deac0b439930.mp4
 
 ### Caso deseje apenas criar o jogo do Genius, estes são os materiais utilizados para realizar os testes, antes de fazer a roupa:
 
@@ -120,7 +128,11 @@ Agora, é preciso escolher o tipo do Arduino (Arduino UNO) e a porta USB onde el
 
 E por último, basta carregar o programa no Arduino UNO (pela opção de Upload na IDE), e ele será executado automaticamente.
 
-~~inserir vídeo do arduino funcionando~~
+### Genius funcionando com o Arduino UNO
+
+https://user-images.githubusercontent.com/66809367/208124224-004a1787-a410-491f-b5c9-deac0b439930.mp4
+
+*(O circuito no vídeo está sem o buzzer, pois foi gravado de madrugada)*
 
 ## Genius no Tinkercad
 
@@ -138,9 +150,13 @@ Também foi feita uma versão do Genius na plataforma Tinkercad, que possibilita
 
 https://user-images.githubusercontent.com/66809367/208124351-14f1b6d8-89d5-47ca-9a26-529151e4d466.mp4
 
+https://user-images.githubusercontent.com/66809367/208124056-c7bbd84f-9af6-42f6-b17a-6722bb8be439.mp4
+
 ## Como usar a roupa
 
 ~~escrever instruções de uso da roupa aqui~~
+
+https://user-images.githubusercontent.com/66809367/208134089-423ecac3-2c4b-4703-b8af-f1a3b267a692.mp4
 
 ## Referências
 

@@ -156,10 +156,13 @@ https://user-images.githubusercontent.com/66809367/208124056-c7bbd84f-9af6-42f6-
 
 Depois de carregar o código do Genius no Arduino Lilypad, conectar o Lilypad no PowerBank. 
 O jogo deve começar automaticamente, exibindo a primeira forma escolhida na matriz de led, com a cor correspondente à forma. 
+
 O jogador deve então selecionar a forma que ele acredita que foi exibida pela tela e apertar o botão de pressão costurado na roupa correspondente à forma. 
+
 Caso correto, o jogo incluirá mais uma forma na sequência, e o jogador deve sempre repetir a sequência exibida na roupa.
-O jogo continua até uma sequência de 20 formas em sequência
-Caso erre, a matriz exibira uma sequência de cores diferentes rapidamente, junto com um som diferente, e o jogo irá recomeçar.
+Caso erre, a matriz exibira uma sequência de cores bem rápida e emitirá um barulho diferente, sinalizando que o jogador errou a sequência. Então, o jogo recomeça.
+
+O jogo continua até exibir uma sequência de 20 formas. Caso o jogador acerte a sequência, ele "venceu" e o jogo recomeça.
 
 https://user-images.githubusercontent.com/66809367/208134089-423ecac3-2c4b-4703-b8af-f1a3b267a692.mp4
 

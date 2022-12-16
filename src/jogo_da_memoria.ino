@@ -1,3 +1,5 @@
+//Código utilizado para testar o Genius, com o Arduino UNO na protoboard
+
 //B1T A B1T
 //www.youtube.com.br/bitabit
 

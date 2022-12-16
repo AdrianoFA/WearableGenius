@@ -28,7 +28,7 @@ Caso deseje apenas criar o jogo do Genius, estes são os materiais utilizados pa
 | 18 | Jumpers | 2 verdes, 2 vermelhos, 2 amarelos, 2 azuis, 1 preto e 9 brancos |
 | 4 | leds | 1 verde, 1 vermelho, 1 amarelo e 1 azul |
 | 4 | resistores² | 2 de 220Ω, 1 de 39Ω e 1 de 470Ω |
-| 4 | botões "push button" |   |
+| 5 | botões "push button" |   |
 | 1 | buzzer ativo |   |
 | 1 | cabo USB AB |   |
 
@@ -47,8 +47,6 @@ E estas foram as conexões realizadas:
 ## Criando a roupa
 
 ![prototipo](/mídia/prototipo.jpg)
-
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 ## Como usar o programa
 

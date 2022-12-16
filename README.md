@@ -46,7 +46,7 @@ E estas foram as conexões realizadas:
 
 ## Criando a roupa
 
-![prototipo](/mídia/prototipo.jpg)
+<img src="https://github.com/AdrianoFA/WearableGenius/blob/main/midia/prototipo.jpg" width=50% height=50%>
 
 ## Como usar o programa
 

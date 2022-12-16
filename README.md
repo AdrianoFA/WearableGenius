@@ -16,8 +16,6 @@ Júlio Silva Ladeira - NUSP 10872350
 
 Sabrina Ribeiro de Souza - NUSP 11207290
 
-~~escrever mais coisas aqui, como a motivação e sobre nós~~
-
 ## Lista de Materiais
 
 | Quantidade | Nome |
@@ -178,4 +176,3 @@ https://user-images.githubusercontent.com/66809367/208134089-423ecac3-2c4b-4703-
 
 Tivemos como inspiração o canal [Bit a Bit](https://www.youtube.com/@BitaBit) no Youtube, que é o responsável pelo código jogo_da_memória.ino, utilizado para testar o circuito do projeto no Arduino UNO.
 
-~~escrever o resto das referências, se houver~~

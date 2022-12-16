@@ -1,6 +1,6 @@
 # WearableGenius
 
-~~inserir vídeo ou foto da roupa~~
+https://user-images.githubusercontent.com/66809367/208124056-c7bbd84f-9af6-42f6-b17a-6722bb8be439.mp4
 
 ## Sobre o projeto
 
@@ -37,6 +37,8 @@ Este projeto foi desenvolvido para a disciplina ACH2808 – INTRODUÇÃO AOS TÊ
 | A5 | Positivo do LED azul |
 
 ## OBS: Teste do Genius
+
+https://user-images.githubusercontent.com/66809367/208124224-004a1787-a410-491f-b5c9-deac0b439930.mp4
 
 ### Caso deseje apenas criar o jogo do Genius, estes são os materiais utilizados para realizar os testes, antes de fazer a roupa:
 
@@ -131,6 +133,10 @@ Também foi feita uma versão do Genius na plataforma Tinkercad, que possibilita
 *Conceito inicial da roupa*
 
 ~~falar um pouco sobre a roupa aqui~~
+
+<img src="https://github.com/AdrianoFA/WearableGenius/blob/main/midia/criacaoRoupa.png" width="500" height="800">
+
+https://user-images.githubusercontent.com/66809367/208124351-14f1b6d8-89d5-47ca-9a26-529151e4d466.mp4
 
 ## Como usar a roupa
 

@@ -31,6 +31,8 @@ Sabrina Ribeiro de Souza - NUSP 11207290
 
 ## Conexões
 
+Estas são as conexões do circuito, feitas com linha condutiva.
+
 <img src="https://github.com/AdrianoFA/WearableGenius/blob/main/midia/lilypad2.jpg" width="150" height="150">
 
 | Buraco do Lilypad | Conectado a |
@@ -45,6 +47,8 @@ Sabrina Ribeiro de Souza - NUSP 11207290
 | A3 | Positivo do LED vermelho |
 | A4 | Positivo do LED amarelo |
 | A5 | Positivo do LED azul |
+
+*Os botões de pressão dos LEDs ficam entre o positivo de cada LED e os LEDs em si.*
 
 ## OBS: Teste do Genius
 
@@ -144,7 +148,11 @@ Também foi feita uma versão do Genius na plataforma Tinkercad, que possibilita
 
 *Conceito inicial da roupa*
 
-~~falar um pouco sobre a roupa aqui~~
+A roupa criada para o projeto é uma blusa feita de moletom, com aproximadamente 70% algodão e 30% poliéster. A ideia é que a roupa seja confortável e fácil de vestir.
+
+A blusa possui um bolso estilo "canguru" para comportar o Arduino Lilypad e o PowerBank. 
+
+Também foram recortadas formas, com suas respectivas cores, para indicar a posição de cada botão de pressão. As formas também deixam o jogo mais didático e divertido.
 
 <img src="https://github.com/AdrianoFA/WearableGenius/blob/main/midia/criacaoRoupa.jpg" width="500" height="700">
 

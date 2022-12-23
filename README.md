@@ -187,11 +187,11 @@ https://user-images.githubusercontent.com/66809367/208134089-423ecac3-2c4b-4703-
 
 ## Considerações futuras:
 
-### - Às vezes o circuito bagunça e o jogo para de funcionar direito, fazendo com que um dos botões seja apertado constantemente, quando na verdade nenhum botão está sendo apertado.
+#### - Às vezes o circuito bagunça e o jogo para de funcionar direito, fazendo com que um dos botões seja apertado constantemente, quando na verdade nenhum botão está sendo apertado.
 
-### - O visor deixa meio difícil de perceber as formas, pois fica meio embaçado.
+#### - O visor deixa meio difícil de perceber as formas, pois fica meio embaçado.
 
-### - É um pouco difícil de jogar olhando para baixo, para ver o visor.
+#### - É um pouco difícil de jogar olhando para baixo, para ver o visor.
 
 ## Referências
 

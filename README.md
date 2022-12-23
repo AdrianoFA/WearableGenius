@@ -12,7 +12,7 @@ O objetivo do projeto é auxiliar no desenvolvimento infantil com o uso de jogos
 Se a criança não estiver sendo supervisionada, ela pode ter acesso a pessoas mal-intencionadas ou conteúdo sensível.
 
 #### **- Tempo de tela:**
-Muito tempo de tela pode prejudicar a visão da criança, segundo estudos.
+Muito tempo de tela pode prejudicar a visão da criança e causar diversos problemas, como falta de sono e postura ruim.
 
 #### **- Fragilidade:**
 O celular é um aparelho consideravelmente caro e frágil, que se quebra facilmente, trazendo prejuízo ao responsável.
@@ -196,4 +196,8 @@ https://user-images.githubusercontent.com/66809367/208134089-423ecac3-2c4b-4703-
 ## Referências
 
 Tivemos como inspiração o canal [Bit a Bit](https://www.youtube.com/@BitaBit) no Youtube, que é o responsável pelo código jogo_da_memória.ino, utilizado para testar o circuito do projeto no Arduino UNO.
+
+### Outras referências
+
+https://www.centroclinicoacras.com.br/blog/blog/maleficios-da-exposicao-excessiva-as-telas/
 

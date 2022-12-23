@@ -19,7 +19,7 @@ O celular é um aparelho consideravelmente caro e frágil, que se quebra facilme
 
 Portanto, tivemos a ideia de criar uma roupa com jogos. Ela seria muito mais barata do que um celular, e ainda distrairia a criança do celular. Por ser uma roupa, seria portátil e lavável (eficiência depois da lavagem ainda em teste), além de mais resistente nas mãos de uma criança.
 
-### Responsáveis pelo projeto:
+## Responsáveis pelo projeto:
 
 Adriano Favareto Abromovick - NUSP 11796062
 

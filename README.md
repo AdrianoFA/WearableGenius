@@ -6,6 +6,19 @@ https://user-images.githubusercontent.com/66809367/208134003-32535726-3c44-4858-
 
 Este projeto foi desenvolvido para a disciplina ACH2808 – INTRODUÇÃO AOS TÊXTEIS ELETRÔNICOS E DISPOSITIVOS VESTÍVEIS (E-TEXTILES E WEARABLES)
 
+O objetivo do projeto é auxiliar no desenvolvimento infantil com o uso de jogos eletrônicos. Atualmente, muitas crianças ficam no celular para passar o tempo. Porém, o uso excessivo do celular traz diversos problemas, como: 
+
+#### **- Segurança:**
+Se a criança não estiver sendo supervisionada, ela pode ter acesso a pessoas mal-intencionadas ou conteúdo sensível.
+
+#### **- Tempo de tela:**
+Muito tempo de tela pode prejudicar a visão da criança, segundo estudos.
+
+#### **- Fragilidade:**
+O celular é um aparelho consideravelmente caro e frágil, que se quebra facilmente, trazendo prejuízo ao responsável.
+
+Portanto, tivemos a ideia de criar uma roupa com jogos. Ela seria muito mais barata do que um celular, e ainda distrairia a criança do celular. Por ser uma roupa, seria portátil e lavável (eficiência depois da lavagem ainda em teste), além de mais resistente nas mãos de uma criança.
+
 ### Responsáveis pelo projeto:
 
 Adriano Favareto Abromovick - NUSP 11796062
@@ -171,6 +184,14 @@ Caso erre, a matriz exibira uma sequência de cores bem rápida e emitirá um ba
 O jogo continua até exibir uma sequência de 20 formas. Caso o jogador acerte a sequência, ele "venceu" e o jogo recomeça.
 
 https://user-images.githubusercontent.com/66809367/208134089-423ecac3-2c4b-4703-b8af-f1a3b267a692.mp4
+
+## Considerações futuras:
+
+### - Às vezes o circuito bagunça e o jogo para de funcionar direito, fazendo com que um dos botões seja apertado constantemente, quando na verdade nenhum botão está sendo apertado.
+
+### - O visor deixa meio difícil de perceber as formas, pois fica meio embaçado.
+
+### - É um pouco difícil de jogar olhando para baixo, para ver o visor.
 
 ## Referências
 

@@ -173,7 +173,7 @@ https://user-images.githubusercontent.com/66809367/208124056-c7bbd84f-9af6-42f6-
 
 ## Como usar a roupa
 
-Depois de carregar o código do Genius no Arduino Lilypad, conectar o Lilypad no PowerBank. 
+Depois de carregar o [código do Genius](https://github.com/AdrianoFA/WearableGenius/blob/main/src/Genius2.ino) no Arduino Lilypad, conectar o Lilypad no PowerBank. 
 O jogo deve começar automaticamente, exibindo a primeira forma escolhida na matriz de led, com a cor correspondente à forma. 
 
 O jogador deve então selecionar a forma que ele acredita que foi exibida pela tela e apertar o botão de pressão costurado na roupa correspondente à forma. 
